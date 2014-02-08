@@ -1,0 +1,135 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	background: #F2F2F2;
+}
+
+/*
+#background {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    bottom: 10px;
+    left: 10px;
+    background: #F2F2F2;
+}
+*/
+
+p {
+	margin: 0px 0px 12px 0px;
+	padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #D0021B;;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+a:hover {
+    background: #DDDDDD;
+}
+
+.red {
+    color: #D0021B;
+}
+
+.main {
+    width: 290px;
+}
+
+#about {
+    position: absolute;
+    top: 20px;
+    left: 25px;
+}
+
+#contact {
+    position: absolute;
+    top: 20px;
+    left: 370px;
+}
+
+#asterisk {
+    position: absolute;
+    top: 10px;
+    right: 25px;
+    font-size: 50px;
+}
+
+#p-list {
+	position: absolute;
+	top: 50px;
+	left: 25px;
+}
+
+#p-list-inner {
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+
+/* ↓ image display pages ↓ */
+#container {
+	margin: 100px auto;
+	padding-right: 25px;
+}
+
+#label {
+	margin-top: 25px;
+}
+
+#description {
+	padding-top: 25px;
+	width: 420px;
+
+}
+/* ↑ image display pages ↑ */
+
+
+/* ↓ fine art ↓ */
+#art {
+    border: 10px solid white;
+}
+
+.reach {
+	width: 580px;
+}
+
+.mweya {
+	width: 593px;
+}
+
+.painting {
+	width: 900px;
+}
+
+.sketch {
+	width: 700px;
+}
+/* ↑ fine art ↑ */
+
+
+/* ↓ design ↓ */
+.late-night {
+	width: 875px;
+}
+
+.punk-poetry {
+	width: 595px;
+}
+
+.tedx {
+	width: 1161px;
+}
+
+img.tedx {
+	background: white;
+}
+/* ↑ design ↑ */
+
