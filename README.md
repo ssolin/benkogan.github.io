@@ -1,4 +1,3 @@
-benkogan.github.io
-==================
+# benkogan.com
 
 A stupidly-simple personal website.
