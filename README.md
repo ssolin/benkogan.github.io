@@ -1,4 +1,4 @@
 benkogan.github.io
 ==================
 
-personal website
+A stupidly-simple personal website.
