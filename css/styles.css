@@ -1,23 +1,23 @@
 body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 14px;
-	background: #F2F2F2;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    background: #F2F2F2;
 }
 
 /*
 #background {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    bottom: 10px;
-    left: 10px;
-    background: #F2F2F2;
+position: absolute;
+top: 10px;
+right: 10px;
+bottom: 10px;
+left: 10px;
+background: #F2F2F2;
 }
-*/
+ */
 
-p {
-	margin: 0px 0px 12px 0px;
-	padding: 0px;
+    p {
+        margin: 0px 0px 12px 0px;
+        padding: 0px;
 }
 
 a {
@@ -26,9 +26,9 @@ a {
 }
 
 ul {
-	list-style-type: none;
-	padding: 0px;
-	margin: 0px;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
 }
 
 a:hover {
@@ -63,30 +63,30 @@ a:hover {
 }
 
 #p-list {
-	position: absolute;
-	top: 50px;
-	left: 25px;
+    position: absolute;
+    top: 50px;
+    left: 25px;
 }
 
 #p-list-inner {
-	margin-left: 10px;
-	margin-top: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
 }
 
 
 /* ↓ image display pages ↓ */
 #container {
-	margin: 100px auto;
-	padding-right: 25px;
+    margin: 100px auto;
+    padding-right: 25px;
 }
 
 #label {
-	margin-top: 25px;
+    margin-top: 25px;
 }
 
 #description {
-	padding-top: 25px;
-	width: 420px;
+    padding-top: 25px;
+    width: 420px;
 
 }
 /* ↑ image display pages ↑ */
@@ -98,38 +98,44 @@ a:hover {
 }
 
 .reach {
-	width: 580px;
+    width: 580px;
 }
 
 .mweya {
-	width: 593px;
+    width: 593px;
 }
 
 .painting {
-	width: 900px;
+    width: 900px;
 }
 
 .sketch {
-	width: 700px;
+    width: 700px;
 }
 /* ↑ fine art ↑ */
 
 
 /* ↓ design ↓ */
 .late-night {
-	width: 875px;
+    width: 875px;
 }
 
 .punk-poetry {
-	width: 595px;
+    width: 595px;
 }
 
 .tedx {
-	width: 1161px;
+    width: 1161px;
 }
 
 img.tedx {
-	background: white;
+    background: white;
 }
+
+.knowing {
+    width: 900px;
+}
+
 /* ↑ design ↑ */
+
 
