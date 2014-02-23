@@ -1,0 +1,9 @@
+transfer to https://iwantmyname.com/ with github hosting
+http://css-tricks.com/resolution-specific-stylesheets/
+fix notes links
+change / and : styling
+upload retina-ready images
+http://lesscss.org/
+"at” in red?
+http://hellohappy.org/beautiful-web-type/
+https://typekit.com/
