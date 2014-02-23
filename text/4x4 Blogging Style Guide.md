@@ -73,6 +73,6 @@ Instructions in progress. Please reference [this post](http://fourbyfourmag.com/
 Instructions in progress.
 Todo:
 - image slider
-- duplicate user accounts?
-- making user accounts?
-- passwords?
+- duplicate user accounts
+- making user accounts
+- passwords
